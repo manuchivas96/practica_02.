@@ -88,15 +88,20 @@
 <img  alt="rename_screenshot" src="2.-.png" width= "1000" height="500">
 
 2.	Encontrar número de páginas para todos los registros
-
+ 
+ **_numero total de registros 55000_**
+ 
 3.	Encontrar tamaño de una  fila 
-  **_ 296 Bytes -> 0.296 kB _**
+
+  **_296 Bytes -> 0.296 kB_**
 
 4.	Encontrar tamaño de una página (filas por filas de páginas)
-  **_ 10360 Bytes -> 10.36 kB _**
+
+  **_10360 Bytes -> 10.36 kB_**
 
 5.	Encontrar tamaño de la base de dato (número de páginas por número de páginas)
-  **_ 569800000 Bytes ->	569800 kB _**
+
+  **_569800000 Bytes ->	569800 kB_**
 
 
 

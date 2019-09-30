@@ -82,6 +82,8 @@
          </tr>
     </table>
     
+    
+    
   2.	Encontrar número de páginas para todos los registros
   
   3.	Encontrar tamaño de una  fila 

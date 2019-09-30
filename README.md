@@ -61,11 +61,10 @@
             <td>Teléfono:VERCHAR(45)</td>
             <td>32 Bytes</td>
          </tr>
-  
             <tr>
             <td>Correo:VERCHAR(45)</td>
             <td>32 Bytes</td>
-  </tr>
+            </tr>
   <tr>
             <td>Página_Web:VERCHAR(45)</td>
             <td>32 Bytes</td>

@@ -83,7 +83,8 @@
          </tr>
     </table>
 
-<img  alt="rename_screenshot" src="1.-.png" width= "300" height="500">
+<img  alt="rename_screenshot" src="1.-.png" width= "1000" height="500">
+
 <img  alt="rename_screenshot" src="2.-.png" width= "300" height="500">
 
 2.	Encontrar número de páginas para todos los registros

@@ -82,16 +82,14 @@
             <td>3 Bytes</td>
          </tr>
     </table>
-    
-    
-    
-  2.	Encontrar número de páginas para todos los registros
-  
-  3.	Encontrar tamaño de una  fila 
-  
-  4.	Encontrar tamaño de una página (filas por filas de páginas)
-  
-  5.	Encontrar tamaño de la base de dato (número de páginas por número de páginas)
+
+2.	Encontrar número de páginas para todos los registros
+
+3.	Encontrar tamaño de una  fila 
+
+4.	Encontrar tamaño de una página (filas por filas de páginas)
+
+5.	Encontrar tamaño de la base de dato (número de páginas por número de páginas)
 
 
 

@@ -8,13 +8,28 @@
    <div align="center">
         <table class="egt">
           <tr>
-            <td>Celda 1</td>
-            <td>Celda 2</td>
+            <td>ID:Int</td>
+            <td></td>
           </tr>
           <tr>
-            <td>Celda 4</td>
-            <td>Celda 5</td>
+            <td>Nombre_Hospitas:VERCHAR</td>
+            <td></td>
           </tr>
+            <tr>
+            <td>Nombre_Hospitas:VERCHAR</td>
+            <td></td>
+          </tr>
+            <tr>
+            <td>Nombre_Hospitas:VERCHAR</td>
+            <td></td>
+          </tr>
+            <tr>
+            <td>Nombre_Hospitas:VERCHAR</td>
+            <td></td>
+          </tr>
+          
+          
+          
           </table>
   </div>
   2.	Encontrar número de páginas para todos los registros

@@ -5,7 +5,6 @@
 <div align="center"><img  alt="rename_screenshot" src="ADB.png" width= "300" height="500"></div>
 
   1.	Definir variables constantes
-  
         <table>
           <tr>
             <td>ID:Int</td>
@@ -62,13 +61,16 @@
             <td>Teléfono:VERCHAR(45)</td>
             <td>32 Bytes</td>
          </tr>
+  
             <tr>
             <td>Correo:VERCHAR(45)</td>
             <td>32 Bytes</td>
-         </tr> <tr>
+  </tr>
+  <tr>
             <td>Página_Web:VERCHAR(45)</td>
             <td>32 Bytes</td>
-         </tr> <tr>
+         </tr> 
+  <tr>
             <td>Nombre_Director:VERCHAR(45)</td>
             <td>32 Bytes</td>
          </tr>

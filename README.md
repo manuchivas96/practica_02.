@@ -8,80 +8,84 @@
         <table >
           <tr>
             <td>ID:Int</td>
-            <td></td>
+            <td>4 Bytes</td>
           </tr>
           <tr>
-            <td>Nombre_Hospitas:VERCHAR</td>
-            <td></td>
+            <td>Nombre_Hospitas:VERCHAR(45)</td>
+            <td>32 Bytes</td>
           </tr>
             <tr>
-            <td>Dirección:VERCHAR</td>
-            <td></td>
+            <td>Dirección:VERCHAR(45)</td>
+            <td>32 Bytes</td>
           </tr>
             <tr>
-            <td>Servicio_Pub/Priv:VERCHAR</td>
-            <td></td>
+            <td>Servicio_Pub/Priv:TINYINT</td>
+            <td>1 Byte</td>
           </tr>
             <tr>
-            <td>Num_Trabajador:VERCHAR</td>
-            <td></td>
+            <td>Num_Trabajador:INT</td>
+            <td>4 Bytes</td>
           </tr>
            <tr>
-            <td>Especialidad:VERCHAR</td>
-            <td></td>
+            <td>Especialidad:VERCHAR(45)</td>
+            <td>32 Bytes</td>
           </tr>
-   <tr>
-            <td>Horario:VERCHAR</td>
-            <td></td>
+           <tr>
+            <td>Horario:VERCHAR(45)</td>
+            <td>32 Bytes</td>
           </tr>
-   <tr>
-            <td>Paciente:VERCHAR</td>
-            <td></td>
+          <tr>
+            <td>Paciente:INT</td>
+            <td>4 Bytes</td>
           </tr>
-   <tr>
-            <td>Cama:VERCHAR</td>
-            <td></td>
+            <tr>
+            <td>Cama:INT</td>
+            <td>4 Bytes</td>
           </tr>
-   <tr>
-            <td>Sala:VERCHAR</td>
-            <td></td>
+           <tr>
+            <td>Sala:INT</td>
+            <td>4 Bytes</td>
           </tr> <tr>
-            <td>Elevador:VERCHAR</td>
-            <td></td>
+            <td>Elevador:INT</td>
+            <td>4 Bytes</td>
           </tr>
-  <tr>
-            <td>Edificio:VERCHAR</td>
-            <td></td>
+            <tr>
+            <td>Edificio:INT</td>
+            <td>4 Bytes</td>
           </tr>
-  <tr>
-            <td>Extención:VERCHAR</td>
-            <td></td>
+          <tr>
+            <td>Extención:INT</td>
+            <td>4 Bytes</td>
          </tr>
              <tr>
-            <td>Teléfono:VERCHAR</td>
-            <td></td>
+            <td>Teléfono:VERCHAR(45)</td>
+            <td>32 Bytes</td>
          </tr>
             <tr>
-            <td>Correo:VERCHAR</td>
-            <td></td>
+            <td>Correo:VERCHAR(45)</td>
+            <td>32 Bytes</td>
          </tr> <tr>
-            <td>Página Web:VERCHAR</td>
-            <td></td>
+            <td>Página_Web:VERCHAR(45)</td>
+            <td>32 Bytes</td>
          </tr> <tr>
-            <td>Nombre_Director:VERCHAR</td>
-            <td></td>
+            <td>Nombre_Director(45):VERCHAR</td>
+            <td>32 Bytes</td>
          </tr> <tr>
-            <td>Reanking:VERCHAR</td>
-            <td></td>
+            <td>Reanking:INT</td>
+            <td>4 Bytes</td>
          </tr>
            <tr>
-            <td>Fecha_Apertura:VERCHAR</td>
-            <td></td>
+            <td>Fecha_Apertura:DATETIME</td>
+            <td>3 Bytes</td>
          </tr>
     </table>
+    
   2.	Encontrar número de páginas para todos los registros
+  
   3.	Encontrar tamaño de una  fila 
+  
   4.	Encontrar tamaño de una página (filas por filas de páginas)
+  
   5.	Encontrar tamaño de la base de dato (número de páginas por número de páginas)
 
 

@@ -5,7 +5,7 @@
 <div align="center"><img  alt="rename_screenshot" src="ADB.png" width= "300" height="500"></div>
 
   1.	Definir variables constantes
-        <table class="egt">
+        <table >
           <tr>
             <td>ID:Int</td>
             <td></td>
@@ -78,10 +78,7 @@
             <td>Fecha_Apertura:VERCHAR</td>
             <td></td>
          </tr>
-           
-           
-  
-          </table>
+    </table>
   2.	Encontrar número de páginas para todos los registros
   3.	Encontrar tamaño de una  fila 
   4.	Encontrar tamaño de una página (filas por filas de páginas)
